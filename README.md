@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Sulaiman Baig, (Back-End Engineer)</h1>
-<h3 align="center">(Node.js, Express.js, GraphQL, Serverless Stack, MongoDB, Mongoose, mySql, Sequelize)</h3>
+<h2 align="center">(Node.js, Express.js, GraphQL, Serverless Stack, MongoDB, Mongoose, mySql, Sequelize)</h2>
 
 
 
