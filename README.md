@@ -20,12 +20,12 @@ Back-End engineer with a passion of cloud-based web and mobile apps. I've comple
 
 <!-- - 📫 How to reach me **engrsulaimanbaig@gmail.com, WhatsApp: +92 310 780 8833, GSM: +92 311 712 1598** -->
 
-<h3 align="left">Connect Info:</h3>
+<!-- <h3 align="left">Connect Info:</h3>
 You can connect me here 👇
 
 <p align="left">
   <a href="mailto:sulaimanbaig@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1826/PNG/128/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="m_sulaiman_baig" height="30" width="30" /></a>
-<a href="https://www.facebook.com/sulaiman.baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_sulaiman_baig" height="30" width="40" /></a></p>
+<a href="https://www.facebook.com/sulaiman.baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m_sulaiman_baig" height="30" width="40" /></a></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 I have worked on so many cool stuff! Some of them including:
