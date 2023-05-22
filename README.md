@@ -18,7 +18,7 @@ Back-End engineer with a passion of cloud-based web and mobile apps. I've comple
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **engrsulaimanbaig@gmail.com, WhatsApp: +92 310 780 8833, GSM: +92 311 712 1598**
+<!-- - 📫 How to reach me **engrsulaimanbaig@gmail.com, WhatsApp: +92 310 780 8833, GSM: +92 311 712 1598** -->
 
 <h3 align="left">Connect Info:</h3>
 You can connect me here 👇
